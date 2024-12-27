@@ -1,0 +1,224 @@
+2024-12-23T11:11:31.387Z [32minfo[39m: Log malumotlai
+2024-12-23T11:11:31.389Z [31merror[39m: Error malumotlar
+2024-12-23T11:11:31.389Z [33mwarn[39m: Warning malumotlar
+2024-12-23T11:11:31.389Z [32minfo[39m: Info malumotlar
+2024-12-23T11:11:40.042Z [32minfo[39m: Log malumotlai
+2024-12-23T11:11:40.043Z [31merror[39m: Error malumotlar
+2024-12-23T11:11:40.044Z [33mwarn[39m: Warning malumotlar
+2024-12-23T11:11:40.044Z [32minfo[39m: Info malumotlar
+2024-12-23T11:14:23.813Z error: Error malumotlar
+2024-12-23T11:14:42.724Z error: Error malumotlar
+2024-12-23T11:15:03.954Z error: Error malumotlar
+2024-12-23T11:15:07.137Z error: Error malumotlar
+2024-12-23T11:15:10.672Z error: Error malumotlar
+2024-12-23T11:15:14.432Z error: Error malumotlar
+2024-12-23T11:15:16.481Z error: Error malumotlar
+2024-12-23T11:16:39.153Z error: Error malumotlar
+2024-12-23T11:16:40.828Z error: Error malumotlar
+2024-12-23T11:16:47.399Z error: Error malumotlar
+2024-12-23T11:16:49.412Z error: Error malumotlar
+2024-12-23T11:16:56.013Z error: Error malumotlar
+2024-12-23T11:17:00.805Z error: Error malumotlar
+2024-12-23T11:17:03.484Z error: Error malumotlar
+2024-12-23T11:20:23.701Z error: Error malumotlar
+2024-12-23T11:20:47.611Z error: Error malumotlar
+2024-12-23T11:20:49.667Z error: Error malumotlar
+2024-12-23T11:21:12.118Z error: Error malumotlar
+2024-12-23T11:21:34.972Z error: Error malumotlar
+2024-12-23T11:21:48.845Z error: Error malumotlar
+2024-12-23T11:22:06.220Z error: Error malumotlar
+2024-12-23T11:22:20.817Z error: Error malumotlar
+2024-12-23T11:22:26.004Z error: Error malumotlar
+2024-12-23T11:22:45.736Z error: Error malumotlar
+2024-12-23T11:22:51.079Z error: Error malumotlar
+2024-12-23T11:22:54.169Z error: Error malumotlar
+2024-12-23T11:22:58.712Z error: Error malumotlar
+2024-12-23T11:23:01.544Z error: Error malumotlar
+2024-12-23T11:24:16.645Z error: Error malumotlar
+2024-12-23T11:25:09.660Z error: Error malumotlar
+2024-12-23T11:26:45.990Z error: Error malumotlar
+2024-12-23T11:32:32.790Z error: Error malumotlar
+2024-12-23T11:33:58.252Z error: Error malumotlar
+2024-12-23T11:34:02.493Z error: Error malumotlar
+2024-12-23T11:34:30.977Z error: Error malumotlar
+2024-12-23T11:43:40.554Z error: Error malumotlar
+2024-12-23T11:45:08.650Z error: Error malumotlar
+2024-12-23T11:45:10.906Z error: Error malumotlar
+2024-12-23T11:45:18.020Z error: Error malumotlar
+2024-12-23T11:46:32.306Z error: Error malumotlar
+2024-12-23T11:48:38.964Z error: E11000 duplicate key error collection: test.users index: user_email_1 dup key: { user_email: "abdulazizbekabdusodiqov@gmail.com" }
+2024-12-24T10:21:16.168Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:24:06.793Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:25:15.505Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:34.293Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:34.911Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.098Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.274Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.444Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.604Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.765Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.938Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.109Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.274Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.441Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.596Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.767Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.952Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:37.061Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:27:23.136Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:27:25.534Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:27:33.386Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:28:23.608Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:29:52.640Z error: No default engine was specified and no extension was provided.
+2024-12-24T10:31:15.183Z error: No default engine was specified and no extension was provided.
+2024-12-24T10:34:06.073Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:34:06.434Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-25T05:32:49.990Z error: Topic validation failed: author_id: Path `author_id` is required., topic_title: Path `topic_title` is required., topic_text: Path `topic_text` is required.
+2024-12-25T05:35:52.784Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:36:50.683Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:37:21.302Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:37:54.582Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:37:55.401Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:38:52.433Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:50:27.758Z error: dictValiadation is not a function
+2024-12-25T11:30:32.324Z error: E11000 duplicate key error collection: test.authors index: author_nick_name_1 dup key: { author_nick_name: "Abdulazizzzzbekk" }
+2024-12-25T11:30:43.415Z error: E11000 duplicate key error collection: test.authors index: author_email_1 dup key: { author_email: "abdulazizzzz@gmail.com" }
+2024-12-25T11:42:13.588Z error: Unexpected token o in JSON at position 1
+2024-12-25T11:45:39.196Z error: Unexpected token o in JSON at position 1
+2024-12-25T11:46:22.140Z error: Unexpected token o in JSON at position 1
+2024-12-25T11:46:24.385Z error: Unexpected token o in JSON at position 1
+2024-12-25T11:46:27.060Z error: Unexpected token o in JSON at position 1
+2024-12-25T11:46:38.258Z error: Unexpected token o in JSON at position 1
+2024-12-25T11:49:34.590Z error: E11000 duplicate key error collection: test.authors index: author_nick_name_1 dup key: { author_nick_name: "Abdulazizzzzbeeee" }
+2024-12-25T11:49:42.632Z error: E11000 duplicate key error collection: test.authors index: author_email_1 dup key: { author_email: "abdulaziz@gmail.com" }
+2024-12-25T11:50:51.053Z error: Unexpected token o in JSON at position 1
+2024-12-26T03:13:04.997Z error: Unexpected token o in JSON at position 1
+2024-12-26T03:31:02.470Z error: Unexpected token o in JSON at position 1
+2024-12-26T03:34:39.811Z error: Unexpected token o in JSON at position 1
+2024-12-26T03:36:52.265Z error: Author validation failed: author_nick_name: Path `author_nick_name` is invalid (qitmir#nick)., author_phone: 93-725 -26-34 - raqam no'to'g'ri
+2024-12-26T05:15:20.030Z error: Cannot find module '../encodings'
+Require stack:
+- /home/c5/Desktop/ITinfo/node_modules/iconv-lite/lib/index.js
+- /home/c5/Desktop/ITinfo/node_modules/raw-body/index.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/read.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/types/json.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/index.js
+- /home/c5/Desktop/ITinfo/node_modules/express/lib/express.js
+- /home/c5/Desktop/ITinfo/node_modules/express/index.js
+- /home/c5/Desktop/ITinfo/app.js
+2024-12-26T05:16:11.942Z error: Cannot find module '../encodings'
+Require stack:
+- /home/c5/Desktop/ITinfo/node_modules/iconv-lite/lib/index.js
+- /home/c5/Desktop/ITinfo/node_modules/raw-body/index.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/read.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/types/json.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/index.js
+- /home/c5/Desktop/ITinfo/node_modules/express/lib/express.js
+- /home/c5/Desktop/ITinfo/node_modules/express/index.js
+- /home/c5/Desktop/ITinfo/app.js
+2024-12-26T05:18:50.883Z error: Author validation failed: author_first_name: Path `author_first_name` is required., author_last_name: Path `author_last_name` is required., author_nick_name: Path `author_nick_name` is required., author_phone:  - raqam no'to'g'ri
+2024-12-26T05:20:09.366Z error: E11000 duplicate key error collection: test.authors index: author_nick_name_1 dup key: { author_nick_name: "nikkomron" }
+2024-12-26T05:20:28.396Z error: E11000 duplicate key error collection: test.authors index: author_nick_name_1 dup key: { author_nick_name: "nikkomron" }
+2024-12-26T05:22:49.886Z error: Author validation failed: author_nick_name: Path `author_nick_name` is invalid (qitmir#nickbek).
+2024-12-26T13:07:37.964Z error: [object Object]
+2024-12-26T13:07:37.981Z error: unhandledRejection: res.status is not a function
+TypeError: res.status is not a function
+    at errorHandler (/home/c5/Desktop/ITinfo/helpers/error_handler.js:5:14)
+    at addAdmin (/home/c5/Desktop/ITinfo/controllers/admin.controller.js:75:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-26T13:11:53.534Z error: [object Object]
+2024-12-26T13:11:53.550Z error: unhandledRejection: res.status is not a function
+TypeError: res.status is not a function
+    at errorHandler (/home/c5/Desktop/ITinfo/helpers/error_handler.js:5:14)
+    at addAdmin (/home/c5/Desktop/ITinfo/controllers/admin.controller.js:76:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-26T13:12:23.713Z error: [object Object]
+2024-12-26T13:12:23.729Z error: unhandledRejection: res.status is not a function
+TypeError: res.status is not a function
+    at errorHandler (/home/c5/Desktop/ITinfo/helpers/error_handler.js:5:14)
+    at addAdmin (/home/c5/Desktop/ITinfo/controllers/admin.controller.js:74:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-26T13:20:47.975Z error: [object Object]
+2024-12-26T13:20:47.992Z error: unhandledRejection: res.status is not a function
+TypeError: res.status is not a function
+    at errorHandler (/home/c5/Desktop/ITinfo/helpers/error_handler.js:5:14)
+    at addAdmin (/home/c5/Desktop/ITinfo/controllers/admin.controller.js:71:9)
+    at Layer.handle [as handle_request] (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/layer.js:95:5)
+    at /home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:175:3)
+2024-12-26T13:21:31.269Z error: email is not defined
+2024-12-26T13:21:38.858Z error: email is not defined
+2024-12-26T13:22:21.094Z error: email is not defined
+2024-12-26T13:24:01.702Z error: email is not defined
+2024-12-26T13:26:18.929Z error: admin_password is not defined
+2024-12-26T13:27:16.204Z error: adminJwt.generateTokens is not a function
+2024-12-26T13:29:56.808Z error: adminJwt.generateTokens is not a function
+2024-12-26T16:32:40.149Z error: adminJwt.generateTokens is not a function
+2024-12-26T16:34:17.328Z error: adminJwt.generateTokens is not a function
+2024-12-26T16:34:33.468Z error: adminJwt.generateTokens is not a function
+2024-12-26T16:36:43.170Z error: adminJwt.generateTokens is not a function
+2024-12-26T16:42:26.283Z error: adminJwt.generateTokens is not a function
+2024-12-26T16:43:35.526Z error: adminJwt.generateTokens is not a function
+2024-12-26T16:44:13.298Z error: adminJwt.generateTokens is not a function
+2024-12-26T16:44:51.496Z error: tokens is not defined
+2024-12-26T16:48:09.159Z error: Cannot find module '../encodings'
+Require stack:
+- /home/c5/Desktop/ITinfo/node_modules/iconv-lite/lib/index.js
+- /home/c5/Desktop/ITinfo/node_modules/raw-body/index.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/read.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/types/json.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/index.js
+- /home/c5/Desktop/ITinfo/node_modules/express/lib/express.js
+- /home/c5/Desktop/ITinfo/node_modules/express/index.js
+- /home/c5/Desktop/ITinfo/app.js
+2024-12-26T16:48:13.230Z error: Cannot find module '../encodings'
+Require stack:
+- /home/c5/Desktop/ITinfo/node_modules/iconv-lite/lib/index.js
+- /home/c5/Desktop/ITinfo/node_modules/raw-body/index.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/read.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/types/json.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/index.js
+- /home/c5/Desktop/ITinfo/node_modules/express/lib/express.js
+- /home/c5/Desktop/ITinfo/node_modules/express/index.js
+- /home/c5/Desktop/ITinfo/app.js
+2024-12-26T16:48:18.178Z error: Cannot find module '../encodings'
+Require stack:
+- /home/c5/Desktop/ITinfo/node_modules/iconv-lite/lib/index.js
+- /home/c5/Desktop/ITinfo/node_modules/raw-body/index.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/read.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/types/json.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/index.js
+- /home/c5/Desktop/ITinfo/node_modules/express/lib/express.js
+- /home/c5/Desktop/ITinfo/node_modules/express/index.js
+- /home/c5/Desktop/ITinfo/app.js
+2024-12-26T16:49:35.764Z error: Cannot find module '../encodings'
+Require stack:
+- /home/c5/Desktop/ITinfo/node_modules/iconv-lite/lib/index.js
+- /home/c5/Desktop/ITinfo/node_modules/raw-body/index.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/read.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/types/json.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/index.js
+- /home/c5/Desktop/ITinfo/node_modules/express/lib/express.js
+- /home/c5/Desktop/ITinfo/node_modules/express/index.js
+- /home/c5/Desktop/ITinfo/app.js
+2024-12-26T16:50:37.473Z error: Cannot find module '../encodings'
+Require stack:
+- /home/c5/Desktop/ITinfo/node_modules/iconv-lite/lib/index.js
+- /home/c5/Desktop/ITinfo/node_modules/raw-body/index.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/read.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/lib/types/json.js
+- /home/c5/Desktop/ITinfo/node_modules/body-parser/index.js
+- /home/c5/Desktop/ITinfo/node_modules/express/lib/express.js
+- /home/c5/Desktop/ITinfo/node_modules/express/index.js
+- /home/c5/Desktop/ITinfo/app.js

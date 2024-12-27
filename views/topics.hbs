@@ -1,0 +1,72 @@
+<div class="container" style="width: 100%; font-size: 18px;">
+    <table class="table" id="authors_table">
+        <thead>
+            <tr>
+                {{!-- <th style="border: 1px solid #111;">author_first_name</th> --}}
+                <th scope="col">#</th>
+                <th scope="col">author_id</th>
+                <th scope="col">topic_title</th>
+                <th scope="col">topic_text</th>
+                <th scope="col">expert_id</th>
+                <th scope="col">is_checked</th>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+
+        </tbody>
+        <tr style=" background-color: grey; text-align:center;">
+        </tr>
+    </table>
+</div>
+
+<script>
+    try {
+
+        fetch('http://localhost:3003/api/topics/all', {
+            method: 'GET'
+        }).then((res) => {
+            console.log(res)
+            if (!res.ok) {
+                console.log('failed')
+                return 0
+            }
+            console.log('succes')
+            return res.json()
+        }).then((data) => {
+            console.log(data.topics[0])
+            const table = document.getElementById('tbody')
+            let i = 1;
+            for (let topic of data.topics) {
+                //   <td style="border: 1px solid #111;">
+                table.innerHTML += `
+<tr>
+      <th scope="row">${i}</th>
+    <td>
+        ${topic.author_id}
+    </td>
+    <td >
+        ${topic.topic_title}
+    </td>
+    <td >
+        ${topic.topic_text}
+    </td>
+    <td >
+        ${topic.expert_id}
+    </td>
+    <td >
+        ${topic.is_checked}
+    </td>
+</tr>
+                `
+                i++
+            }
+
+
+        }).catch((err) => {
+            console.log('xatolik', err)
+        })
+
+    } catch (err) {
+        console.log(err)
+    }
+</script>

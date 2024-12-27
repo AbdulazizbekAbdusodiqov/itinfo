@@ -1,0 +1,67 @@
+<form id="loginForm">
+    <div class="mb-3">
+        <label for="email" class="form-label">Email address</label>
+        <input type="email" class="form-control" id="email" , name="email" , value="abdulazizbekkkkkkk@gmail.com"
+            aria-describedby="emailHelp">
+
+        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    </div>
+
+
+    <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input type="password" class="form-control" id="password" , value="paroljon">
+    </div>
+
+    <div class="mb-3 form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <button type="submit" class="btn btn-success">Submit</button>
+</form>
+
+<div id="welcome" style="display: none;">
+    <h3>IT_INFO_ADMIN ga hush kelibsz</h3>
+</div>
+
+<script>
+    const form = document.getElementById("loginForm")
+    form.addEventListener("submit", async (e) => {
+        e.preventDefault()
+        const email = document.getElementById("email").value
+        const password = document.getElementById("password").value
+        try {
+            await fetch("http://localhost:3003/api/admin/login", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    email,
+                    password
+                })
+            })
+                .then((response) => {
+                    console.log(response)
+                    if (response.ok) {
+                        console.log("login succsesfuly")
+                        return response.json()
+                    } else {
+                        console.error("Login failed")
+                    }
+                })
+                .then((data) => {
+                    console.log(data)
+                    localStorage.setItem("accessToken", data.accessToken)
+                    form.style.display = "none"
+                    const welcome = document.getElementById("welcome");
+                    welcome.style.display = "block"
+                })
+                .catch((error) => {
+                    console.log("xatolik yuzagab keldi ", error)
+                })
+        } catch (error) {
+            console.log(error)
+        }
+    })
+</script>

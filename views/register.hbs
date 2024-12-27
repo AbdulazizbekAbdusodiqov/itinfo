@@ -1,0 +1,131 @@
+<style>
+    .container {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .form {
+        display: flex;
+        flex-direction: column;
+    }
+</style>
+<div class="container">
+
+    <form class="form w-75" id="form">
+        <div class="mb-3">
+            <label for="firstName" class="form-label">First name</label>
+            <input type="text" class="form-control" id="firstName" aria-describedby="first_name">
+        </div>
+
+        <div class="mb-3">
+            <label for="lastName" class="form-label">Last name</label>
+            <input type="text" class="form-control" id="lastName" aria-describedby="last_name">
+        </div>
+
+        <div class="mb-3">
+            <label for="nickName" class="form-label">Nick name</label>
+            <input type="text" class="form-control" id="nickName" aria-describedby="nick_name">
+        </div>
+
+        <div class="mb-3">
+            <label for="email" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="email" aria-describedby="emailHelp" value="nmadir@gmail.com">
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="phone" class="form-label">Phone number</label>
+            <input type="tel" class="form-control" id="phone" aria-describedby="phone">
+        </div>
+
+        <div class="mb-3">
+            <label for="position" class="form-label">Position</label>
+            <input type="text" class="form-control" id="position" aria-describedby="position">
+        </div>
+
+        <div class="mb-3">
+            <label for="password" class="form-label">Password</label>
+            <input type="password" class="form-control" id="password" value="parol">
+        </div>
+        <div id="succes_register">
+
+        </div>
+        <button type="submit" class="btn btn-success">Sign Up</button>
+    </form>
+</div>
+
+
+<script>
+    const form = document.getElementById('form')
+    form.addEventListener('submit', async (e) => {
+
+        e.preventDefault()
+
+        const author_first_name = document.getElementById('firstName');
+        const author_last_name = document.getElementById('lastName');
+        const author_nick_name = document.getElementById('nickName');
+        const author_email = document.getElementById('email');
+        const author_phone = document.getElementById('phone');
+        const author_password = document.getElementById('password');
+        const author_position = document.getElementById('position');
+        console.log({
+            author_first_name: author_first_name.value,
+            author_last_name: author_last_name.value,
+            author_nick_name: author_nick_name.value,
+            author_email: author_email.value,
+            author_phone: author_phone.value,
+            author_password: author_password.value,
+            author_position: author_position.value
+        });
+        try {
+
+            fetch('http://localhost:3003/api/author/create', {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    author_first_name,
+                    author_last_name,
+                    author_nick_name,
+                    author_email,
+                    author_phone,
+                    author_password,
+                    author_position
+                })
+            }).then((res) => {
+                console.log(res)
+                if (res.ok) {
+                    return res.json()
+                }
+                throw new Error("response failed")
+            }).then((data) => {
+                console.log(data)
+                const success_register = document.getElementById("succes_register")
+                success_register.innerHTML = `
+                <h4 style='width: 100%; text-align: center;'>
+                    Muvaffaqqiyatli ro'yxatdan o'tdingiz✅
+                </h4>
+                `
+                author_first_name.value = "";
+                author_last_name.value = "";
+                author_nick_name.value = "";
+                author_email.value = "";
+                author_phone.value = "";
+                author_password.value = "";
+                author_position.value = "";
+
+                setTimeout(() => {
+                    return window.location.replace("/login")
+                }, 2000)
+            }).catch((error) => {
+                console.log("xatolik yuzagab keldi ", error)
+            })
+
+        } catch (err) {
+            console.log(err)
+        }
+
+    });
+</script>

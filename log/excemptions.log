@@ -1,0 +1,655 @@
+2024-12-23T11:23:04.450Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:24:20.696Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:25:12.415Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:26:48.883Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:32:35.738Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:34:00.956Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:34:05.047Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:34:33.429Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:43:42.959Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:55:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:45:13.377Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:55:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:45:20.534Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:55:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-24T10:52:55.973Z error: uncaughtException: Unexpected token '}'
+/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:144
+    res.status(200).send({ message: "Tizimga hush kelibsiz", ... });
+                                                                 ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-24T10:53:33.642Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:146
+      , 
+      ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-24T10:53:39.986Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:146
+      author_id : , 
+                  ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-24T11:40:53.398Z error: uncaughtException: Unexpected end of input
+/home/c5/Desktop/najot_talim/ITinfo/services/jwt.service.js:50
+
+
+
+SyntaxError: Unexpected end of input
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:8:23)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-24T11:43:41.455Z error: uncaughtException: Unexpected token '}'
+/home/c5/Desktop/najot_talim/ITinfo/services/jwt.service.js:58
+}
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:8:23)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-25T03:18:41.309Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/ITinfo/routes/author.routes.js:18
+router.get("/all", getAuthors); , authorPolice
+                                ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:7:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-25T03:18:45.564Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/ITinfo/routes/author.routes.js:18
+router.get("/all", getAuthors); , authorPolice
+                                ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:7:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T03:25:36.764Z error: uncaughtException: Unexpected identifier
+/home/c5/Desktop/ITinfo/controllers/author.controller.js:50
+      author_last_name 
+      ^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T03:25:45.025Z error: uncaughtException: Unexpected identifier
+/home/c5/Desktop/ITinfo/controllers/author.controller.js:50
+      author_last_name 
+      ^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T03:26:42.716Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/ITinfo/controllers/author.controller.js:68
+      author_password : , 
+                        ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T04:33:19.072Z error: uncaughtException: Unexpected token ':'
+/home/c5/Desktop/ITinfo/controllers/author.controller.js:96
+      : author.is_active,
+      ^
+
+SyntaxError: Unexpected token ':'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/author.routes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T04:33:27.780Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/ITinfo/controllers/author.controller.js:96
+      role: author.,
+                   ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/author.routes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T12:56:40.443Z error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:462:11)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:28:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T12:56:47.953Z error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:462:11)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:28:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T12:56:50.226Z error: uncaughtException: admin is not defined
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:28:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T12:58:03.392Z error: uncaughtException: adminR is not defined
+ReferenceError: adminR is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:28:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T12:58:05.110Z error: uncaughtException: adminRo is not defined
+ReferenceError: adminRo is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:28:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T12:58:08.191Z error: uncaughtException: adminR is not defined
+ReferenceError: adminR is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:28:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T12:58:10.130Z error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:462:11)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:28:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T12:58:23.524Z error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:462:11)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:29:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T12:58:25.790Z error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:462:11)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:29:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T12:58:28.706Z error: uncaughtException: Cannot find module './'
+Require stack:
+- /home/c5/Desktop/ITinfo/routes/index.routes.js
+- /home/c5/Desktop/ITinfo/app.js
+Error: Cannot find module './'
+Require stack:
+- /home/c5/Desktop/ITinfo/routes/index.routes.js
+- /home/c5/Desktop/ITinfo/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2024-12-26T12:58:31.806Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T12:58:35.759Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T12:59:55.827Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:02:27.525Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:03:00.794Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:03:09.829Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:03:12.793Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:03:28.193Z error: uncaughtException: mainRouter is not defined
+ReferenceError: mainRouter is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/app.js:31:17)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+2024-12-26T13:03:30.736Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:03:38.872Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:03:53.819Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:03:56.791Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:04:33.645Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:04:34.865Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:04:39.444Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:04:52.149Z error: uncaughtException: userPolice is not defined
+ReferenceError: userPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:16:22)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:04:55.251Z error: uncaughtException: adminPolice is not defined
+ReferenceError: adminPolice is not defined
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:21:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2024-12-26T13:23:34.076Z error: uncaughtException: Unexpected identifier
+/home/c5/Desktop/ITinfo/controllers/admin.controller.js:22
+            admin_password,
+            ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:10:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T16:38:48.623Z error: uncaughtException: Unexpected token ')'
+/home/c5/Desktop/ITinfo/controllers/admin.controller.js:91
+        const tokens = adminJwt.generateTokens);
+                                              ^
+
+SyntaxError: Unexpected token ')'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:10:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-26T16:38:50.181Z error: uncaughtException: Unexpected token ')'
+/home/c5/Desktop/ITinfo/controllers/admin.controller.js:91
+        const tokens = adminJwt.generateTokens());
+                                                ^
+
+SyntaxError: Unexpected token ')'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/admin.routes.js:10:7)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)

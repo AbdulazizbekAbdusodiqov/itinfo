@@ -1,0 +1,35 @@
+2024-12-23T11:22:48.811Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-26T13:07:37.981Z error: unhandledRejection: res.status is not a function
+TypeError: res.status is not a function
+    at errorHandler (/home/c5/Desktop/ITinfo/helpers/error_handler.js:5:14)
+    at addAdmin (/home/c5/Desktop/ITinfo/controllers/admin.controller.js:75:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-26T13:11:53.550Z error: unhandledRejection: res.status is not a function
+TypeError: res.status is not a function
+    at errorHandler (/home/c5/Desktop/ITinfo/helpers/error_handler.js:5:14)
+    at addAdmin (/home/c5/Desktop/ITinfo/controllers/admin.controller.js:76:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-26T13:12:23.729Z error: unhandledRejection: res.status is not a function
+TypeError: res.status is not a function
+    at errorHandler (/home/c5/Desktop/ITinfo/helpers/error_handler.js:5:14)
+    at addAdmin (/home/c5/Desktop/ITinfo/controllers/admin.controller.js:74:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-26T13:20:47.992Z error: unhandledRejection: res.status is not a function
+TypeError: res.status is not a function
+    at errorHandler (/home/c5/Desktop/ITinfo/helpers/error_handler.js:5:14)
+    at addAdmin (/home/c5/Desktop/ITinfo/controllers/admin.controller.js:71:9)
+    at Layer.handle [as handle_request] (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/layer.js:95:5)
+    at /home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/c5/Desktop/ITinfo/node_modules/express/lib/router/index.js:175:3)
